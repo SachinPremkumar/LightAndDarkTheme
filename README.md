@@ -8,8 +8,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-![light](https://github.com/SachinPremkumar/LightAndDarkTheme/assets/52343650/4e7bc566-1e46-4712-b2f2-0f5f214ee83b){width=20%}
-![dark](https://github.com/SachinPremkumar/LightAndDarkTheme/assets/52343650/a83dd156-3ded-4076-bb16-b771425faae2){width=20%}
+![light](https://github.com/SachinPremkumar/LightAndDarkTheme/assets/52343650/4e7bc566-1e46-4712-b2f2-0f5f214ee83b){:height="36px" width="36px"}
+![dark](https://github.com/SachinPremkumar/LightAndDarkTheme/assets/52343650/a83dd156-3ded-4076-bb16-b771425faae2){:height="36px" width="36px"}
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
